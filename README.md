@@ -9,7 +9,7 @@ cypto_data.csv taken from CryptoCompare.com
 
 ## Findings
 There are a total of 533 tradable cryptocurrencies currently on the market. 
-The K-means clustering algorithm identified that there are potentially 4 different 'clusters' or classifications for the currently trading cryptocurrencies. Of the four classes there is one class that the majority of the cryptocurrencies have been grouped in. There is another class that has considerably less cryptocurrency and the final two classes are both comprised of just 1 cryptocurrency each. Using the data contained in the report along with visual explanations of the data, Accountability Accounting can now move forward with creating the crypocurrency portfolios to offer.
+The K-means clustering algorithm identified that there are potentially 4 different 'clusters' or classifications for the currently trading cryptocurrencies. Of the four classes there is one class that the majority of the cryptocurrencies have been grouped in. There is another class that has considerably less cryptocurrency and the final two classes are both comprised of just 1 cryptocurrency each. Using the data contained in the report along with visual explanations of the data, Accountability Accounting can now move forward with creating the cryptocurrency portfolios to offer.
 
 Visualizations:
 
